@@ -24,6 +24,7 @@ public class PruebaTable extends javax.swing.JFrame {
   
     public PruebaTable() throws ClassNotFoundException, SQLException {
         initComponents();
+        cargarProductos();
 
     }
 
